@@ -1,0 +1,17 @@
+br/ufscar/dc/dsw/conversor/EditoraConversor.class
+br/ufscar/dc/dsw/dao/ILivroDAO.class
+br/ufscar/dc/dsw/domain/Livro.class
+br/ufscar/dc/dsw/dao/IEditoraDAO.class
+br/ufscar/dc/dsw/controller/EditoraController.class
+br/ufscar/dc/dsw/service/impl/LivroService.class
+br/ufscar/dc/dsw/controller/HomeController.class
+br/ufscar/dc/dsw/service/spec/ILivroService.class
+br/ufscar/dc/dsw/config/MvcConfig.class
+br/ufscar/dc/dsw/conversor/BigDecimalConversor.class
+br/ufscar/dc/dsw/service/spec/IEditoraService.class
+br/ufscar/dc/dsw/service/impl/EditoraService.class
+br/ufscar/dc/dsw/LivrariaMvcApplication.class
+br/ufscar/dc/dsw/domain/AbstractEntity.class
+br/ufscar/dc/dsw/controller/ErrorViewController.class
+br/ufscar/dc/dsw/domain/Editora.class
+br/ufscar/dc/dsw/controller/LivroController.class
